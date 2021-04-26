@@ -1,5 +1,13 @@
 # Amazon-Clone-Personal-Project
 
+# Hosting URL:
+
+https://clone-personal-project-ffbc3.web.app
+
+
+![amazon](https://user-images.githubusercontent.com/63961200/116091214-33abab00-a6d7-11eb-8920-b8827095a7b6.gif)
+
+
 # Tech in my project build
 1) User Authentication (Username & Password)
 2) Stripe API (Payment)
@@ -11,10 +19,6 @@
 8) Firebase Hosting
 9) Firebase Authentication (Full login!)
 
-
-# Hosting URL:
-
-https://clone-personal-project-ffbc3.web.app
 
 
 # My Project build (Stripe)
