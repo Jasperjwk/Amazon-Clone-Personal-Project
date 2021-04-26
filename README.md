@@ -29,7 +29,7 @@ npm init (functions > y > y)
 
 # Steps to deploy my project using firebase
 
-1) sudo npm install -g firebase-tools
+1) npm install -g firebase-tools
 2) firebase init (hosting > build > y > n)
 3) npm run build
 4) firebase use "project id"
