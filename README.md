@@ -37,12 +37,6 @@ npm init (functions > y > y)
 6) To rerun the build, repeat step 3 and run step 5 to "firebase deploy --only hosting" (front-end) instead of "firebase deploy" 
 
 
-firebase use clone-personal-project-ffbc3
-
-
-
-firebase use clone-personal-project-ffbc3
-
 # My Personal notes
 
 C:\Users\th6ri\amazon-clone-personal-projectt\functions>firebase emulators:start
